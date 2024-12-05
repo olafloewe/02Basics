@@ -1,0 +1,7 @@
+C:\Users\olafl\source\repos\olafloewe\02Basics\Task 10\bin\Debug\Task 10.exe.config
+C:\Users\olafl\source\repos\olafloewe\02Basics\Task 10\bin\Debug\Task 10.exe
+C:\Users\olafl\source\repos\olafloewe\02Basics\Task 10\bin\Debug\Task 10.pdb
+C:\Users\olafl\source\repos\olafloewe\02Basics\Task 10\obj\Debug\Task 10.csproj.AssemblyReference.cache
+C:\Users\olafl\source\repos\olafloewe\02Basics\Task 10\obj\Debug\Task 10.csproj.CoreCompileInputs.cache
+C:\Users\olafl\source\repos\olafloewe\02Basics\Task 10\obj\Debug\Task 10.exe
+C:\Users\olafl\source\repos\olafloewe\02Basics\Task 10\obj\Debug\Task 10.pdb
