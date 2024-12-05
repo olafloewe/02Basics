@@ -1,0 +1,7 @@
+C:\Users\olafl\source\repos\02Basics\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\olafl\source\repos\02Basics\Task 2\bin\Debug\Task 2.exe
+C:\Users\olafl\source\repos\02Basics\Task 2\bin\Debug\Task 2.pdb
+C:\Users\olafl\source\repos\02Basics\Task 2\obj\Debug\Task 2.csproj.AssemblyReference.cache
+C:\Users\olafl\source\repos\02Basics\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\olafl\source\repos\02Basics\Task 2\obj\Debug\Task 2.exe
+C:\Users\olafl\source\repos\02Basics\Task 2\obj\Debug\Task 2.pdb
