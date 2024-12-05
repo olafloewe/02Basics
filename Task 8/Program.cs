@@ -8,31 +8,33 @@ namespace Task_8 {
     internal class Program {
         static void Main(string[] args) {
 
-            int num;
+            int heiInput;
 
             while (true) {
                 // getting user input and guardian clauses for miss input
-                Console.WriteLine("Enter a number to check if it is prime: ");
-                Console.Write("Number: ");
-                if (!int.TryParse(Console.ReadLine(), out num)) continue;
+                Console.WriteLine("Enter the height of the pyramid to be printed: ");
+                Console.Write("height: ");
+                if (!int.TryParse(Console.ReadLine(), out heiInput)) continue;
+                Console.WriteLine();
 
-                Console.WriteLine($"Is {num} prime? {PrimeCheck(num)}");
+                DrawPyramid(heiInput);
             }
         }
 
-        // check for prime attribute in a number
-        private static bool PrimeCheck(int ceiling) {
-            bool prime = true;
-
-            // if number is divisable by any number smaller than itself which is not 1 => not prime
-            for (int i = 2; i < ceiling; i++) {
-                if (ceiling % i == 0) {
-                    prime = false;
-                    return prime;
+        // draw pyramid function
+        private static void DrawPyramid(int hei) {
+            for (int i = 0; i < hei; i++) {
+                for (int j = 0; j < (hei * 2); j++) {
+                    // boundaries between which a * is printed
+                    if (j >= hei - i && j <= hei + i) {
+                        Console.Write('*');
+                        continue;
+                    }
+                    Console.Write(' ');
                 }
+                Console.WriteLine(); // line break after each succesfull line print
             }
 
-            return prime;
         }
     }
 }

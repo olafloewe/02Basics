@@ -1,0 +1,7 @@
+C:\Users\olafl\source\repos\02Basics\Task 9\bin\Debug\Task 9.exe.config
+C:\Users\olafl\source\repos\02Basics\Task 9\bin\Debug\Task 9.exe
+C:\Users\olafl\source\repos\02Basics\Task 9\bin\Debug\Task 9.pdb
+C:\Users\olafl\source\repos\02Basics\Task 9\obj\Debug\Task 9.csproj.AssemblyReference.cache
+C:\Users\olafl\source\repos\02Basics\Task 9\obj\Debug\Task 9.csproj.CoreCompileInputs.cache
+C:\Users\olafl\source\repos\02Basics\Task 9\obj\Debug\Task 9.exe
+C:\Users\olafl\source\repos\02Basics\Task 9\obj\Debug\Task 9.pdb
