@@ -5,3 +5,10 @@ C:\Users\olafl\source\repos\olafloewe\02Basics\Task 1\obj\Debug\Task 1.csproj.As
 C:\Users\olafl\source\repos\olafloewe\02Basics\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
 C:\Users\olafl\source\repos\olafloewe\02Basics\Task 1\obj\Debug\Task 1.exe
 C:\Users\olafl\source\repos\olafloewe\02Basics\Task 1\obj\Debug\Task 1.pdb
+C:\Users\olafl\Source\Repos\02Basics\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\olafl\Source\Repos\02Basics\Task 1\bin\Debug\Task 1.exe
+C:\Users\olafl\Source\Repos\02Basics\Task 1\bin\Debug\Task 1.pdb
+C:\Users\olafl\Source\Repos\02Basics\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Users\olafl\Source\Repos\02Basics\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\olafl\Source\Repos\02Basics\Task 1\obj\Debug\Task 1.exe
+C:\Users\olafl\Source\Repos\02Basics\Task 1\obj\Debug\Task 1.pdb
